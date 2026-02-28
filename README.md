@@ -47,11 +47,10 @@ Controls playback of an Animation.
 Relies on a constants.py file where global project constants are declared.
 It expects there to be an FPS constant defined in constants.py.
 
-Also, in the current state, doesn't handle delta-time. 
-
 Great for learning, prototyping, or small projects.
 
-Feel free to extend it with features like time-based updates, reverse playback, event callbacks when animations finish.
+Feel free to extend it with features like reverse playback or event callbacks when animations finish.
 
 ## License
+
 MIT License – free to use, modify, and share.
